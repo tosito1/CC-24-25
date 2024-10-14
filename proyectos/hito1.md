@@ -34,7 +34,7 @@ Modifica solo la línea que contenga las iniciales de tus apellidos y tu nombre.
 | G. S. DANIEL | <!--enlace-->                                                           | <!--versión--> |
 | G-G. M. ADRIANO | <!--enlace-->                                                           | <!--versión--> |
 | L. V. ALEJANDRO | <!--enlace-->                                                           | <!--versión--> |
-| M. G. ANTONIO JOSE | <!--enlace-->                                                           | <!--versión--> |
+| M. G. ANTONIO JOSE | [Licencia](https://github.com/tosito1/Cloud-Computing/blob/main/docs/Hitos/Hito1/Hito1.md)                                                          | 0.0.1 |
 | M. S. MARIO | <!--enlace-->                                                           | <!--versión--> |
 | O. G. BRUNO | <!--enlace-->                                                           | <!--versión--> |
 | P. H. ALFONSO JESUS | <!--enlace-->                                                           | <!--versión--> |
